@@ -37,7 +37,7 @@
 
   <ItemGroup>
     <PackageReference Include="Net.Chdk.Meta.Model.Base" Version="0.1.1-alpha" />
-    <PackageReference Include="newtonsoft.json" Version="10.0.2" />
+    <PackageReference Include="newtonsoft.json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
